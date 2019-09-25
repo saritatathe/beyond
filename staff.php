@@ -56,6 +56,7 @@
          </div>
        </div>
        <!-- //short-->
+      I have making changes to understand how to pull
          <section class="gallery py-lg-5">
                     <div class="container py-5">
                         <div class="title-section ">
